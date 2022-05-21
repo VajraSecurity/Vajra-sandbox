@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/VajraSecurity/Vajra-sandbox/main/vajra.png" alt="vajra" width="200"/>
+
 # Abstract 
 
 We propose a novel sandbox for analyzing Linux malware. Our sandbox system, called Vajra-sand, supports dynamic analysis for elf binaries and has some features to automate and facilitate malware analysis. In addition, our system collects packet capture files using tcpdump for network granular logs. With the dataset of real-world malware, we proved that our sandbox system can analyze Linux malware which is specifically designed for infecting Linux systems. Through an analysis experiment on many malware samples, we show a possibility that our system could facilitate a large-scale analysis in an automated manner and retrieve further insights from Linux malware. 
